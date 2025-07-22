@@ -12,6 +12,7 @@ public static void main(String[] args) {
 		System.out.println("Persobn is not elegible to vote");
 
 	}
+	System.out.println("its done");
 		
 }
 }
